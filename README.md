@@ -1,0 +1,1 @@
+# Exploratory-Visualization-of-Forest-Fire-using-R-and-ggplot2
